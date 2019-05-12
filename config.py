@@ -1,6 +1,6 @@
-SLEEP_TIME = 0.1
-CLICK_LATENCY = 0.5
+SLEEP_TIME = 3	# Seconds
+CLICK_LATENCY = 1000 # ms
 
-CHANNEL = 18
+CHANNEL = 21
 
-ROOT = '/home/pi/Code/camera/'
+ROOT = '/home/pi/Code/chute_laundry/src/camera/'
